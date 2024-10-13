@@ -3,6 +3,7 @@ title: "First Markdown Blog"
 slug: "first_markdown_blog"
 author: "Yogesh Kumar"
 date: "12-10-2024"
+category: ["welcome" "greetings"]
 ---
 
 
